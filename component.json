@@ -1,0 +1,14 @@
+{
+  "name": "simplify-3D",
+  "repo": "microjs/simplify-3D",
+  "description": "simplify-3D is a high-performance JavaScript 3D polyline simplification library",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "microjs/simplify-base": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
